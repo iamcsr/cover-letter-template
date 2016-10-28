@@ -1,2 +1,2 @@
 # cover-letter-template
-Open-source cover letter tempate for all your job seeking needs
+Open-source cover letter template for all your job seeking needs
